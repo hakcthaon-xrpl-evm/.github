@@ -69,7 +69,7 @@ Security and privacy are paramount in the Cro on Ethereum project:
 
 ## Useful ressources 📜
 
-- **Litepaper:** You can find our litepaer [here]()
+- **Litepaper:** You can find our litepaper [here]()
 - [**Alice's Ring, ring signature protocol*](https://www.cypherlab.fr/alices-ring)
 
 ## Note
