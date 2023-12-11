@@ -42,7 +42,6 @@ The XRPL-EVM-Solvency relies on a comprehensive technology stack:
 
 - **Privacy-Preserving Ownership Proofs:** Ring signatures enable users to prove XRP and any other token (ERC20/NFTs) ownership without revealing specific wallet addresses, preserving user's privacy.
 - **Highly Scalable and Efficient Ring Signature Protocol:** We leverage a highly scalable and efficient ring signature protocol, Alice's Ring, to ensure that users can prove their assets ownership on chain without compromising security.
-- **IPFS for Decentralized Front-End Hosting:** We employ IPFS to host the project's front-end in a decentralized and trustless manner. This ensures that users can access and interact with the system without relying on a central authority
 - **High decentralization:** The XRPL-EVM-Solvency is built on top of the XRPL-EVM sidechain, it only uses decentralized tools. This ensures that the system is not controlled by a single entity and that users can interact with the system in a trustless manner for free.
 - **Smart Contracts:** The smart contracts are deployed on the XRPL-EVM sidechain, they are written in Solidity. They are used to verify and store the ownership proofs.
 
