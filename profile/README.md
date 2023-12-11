@@ -33,7 +33,7 @@ XRPL-EVM-Solvency is an innovative project that allows users to seamlessly prove
 
 ## Usage 📈
 
-To use the XRPL-EVM-Solvency, you can directly interact with our [WebApp]():  
+To use the XRPL-EVM-Solvency, you can directly interact with our [WebApp](http://89.58.41.130:4051/):  
 
 
 ## Technical Details 🛠️
@@ -69,7 +69,7 @@ Security and privacy are paramount in the Cro on Ethereum project:
 
 ## Useful ressources 📜
 
-- **Litepaper:** You can find our litepaper [here]()
+- **Litepaper:** You can find our litepaper [here](https://github.com/hakcthaon-xrpl-evm/.github/blob/main/XRPL%2BEVM%2BSolvency.pdf)
 - [**Alice's Ring, ring signature protocol*](https://www.cypherlab.fr/alices-ring)
 
 ## Note
