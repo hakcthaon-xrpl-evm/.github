@@ -6,10 +6,9 @@ XRPL-EVM-Solvency is an innovative project that allows users to seamlessly prove
 
 ## Repo
 
-- [WebApp](https://github.com/hack-chainlink/WebApp)
-- [ChainLink Functions](https://github.com/hack-chainlink/chainlink-functions-call)   
-- [Smart Contracts](https://github.com/hack-chainlink/contracts)
-- [API](https://github.com/hack-chainlink/API) without Alice's Ring library (closed source for now -> waiting for audit)
+- [WebApp](https://github.com/hakcthaon-xrpl-evm/webApp)
+- [Smart Contracts](https://github.com/hakcthaon-xrpl-evm/contracts)
+- [API](https://github.com/hakcthaon-xrpl-evm/API) without Alice's Ring library (close sourced for now -> waiting for audit, it will be used for future initiatives)
 
 ## Table of Contents 📑
 
@@ -34,7 +33,7 @@ XRPL-EVM-Solvency is an innovative project that allows users to seamlessly prove
 
 ## Usage 📈
 
-To use the XRPL-EVM-Solvency on Ethereum, Avalanche or Polygon testnets, you can directly interact with our [WebApp](https://web-app-chainlink-hack.vercel.app/):  
+To use the XRPL-EVM-Solvency, you can directly interact with our [WebApp]():  
 
 
 ## Technical Details 🛠️
@@ -70,7 +69,7 @@ Security and privacy are paramount in the Cro on Ethereum project:
 
 ## Useful ressources 📜
 
-- **Litepaper:** You can find our litepaer [here](https://github.com/hack-chainlink/.github/blob/main/CRP%20Lightpaper.pdf)
+- **Litepaper:** You can find our litepaer [here]()
 - [**Alice's Ring, ring signature protocol*](https://www.cypherlab.fr/alices-ring)
 
 ## Note
