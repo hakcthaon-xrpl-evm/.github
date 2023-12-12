@@ -33,14 +33,14 @@ XRPL-EVM-Solvency is an innovative project that allows users to seamlessly prove
 
 ## Usage 📈
 
-To use the XRPL-EVM-Solvency, you can directly interact with our [WebApp](http://89.58.41.130:4051/):  
+To use the XRPL-EVM-Solvency, you can directly interact with our [WebApp](http://89.58.41.130:4051/) (TEST -> HTTP):  
 
 
 ## Technical Details 🛠️
 
 The XRPL-EVM-Solvency relies on a comprehensive technology stack:
 
-- **Privacy-Preserving Ownership Proofs:** Ring signatures enable users to prove XRP and any other token (ERC20/NFTs) ownership without revealing specific wallet addresses, preserving user's privacy.
+- **Privacy-Preserving Ownership Proofs:** Ring signatures, based on our homemade solution [Alice's Ring](https://www.cypherlab.fr/alices-ring) enable users to prove XRP and any other token (ERC20/NFTs) ownership without revealing specific wallet addresses, preserving user's privacy.
 - **Highly Scalable and Efficient Ring Signature Protocol:** We leverage a highly scalable and efficient ring signature protocol, Alice's Ring, to ensure that users can prove their assets ownership on chain without compromising security.
 - **High decentralization:** The XRPL-EVM-Solvency is built on top of the XRPL-EVM sidechain, it only uses decentralized tools. This ensures that the system is not controlled by a single entity and that users can interact with the system in a trustless manner for free.
 - **Smart Contracts:** The smart contracts are deployed on the XRPL-EVM sidechain, they are written in Solidity. They are used to verify and store the ownership proofs.
@@ -64,7 +64,7 @@ Security and privacy are paramount in the Cro on Ethereum project:
 - **Tokenized non-EVM assets on Ethereum:** Users can mint tokenized versions of BTC, MATIC, AVAX & XRP on EVM, potentially without intermediaries.
 - **Voting Rights in DeFi Protocols:** Proof of XRP and token holdings can allocate voting rights in Ethereum-based DeFi protocols.
 - **Enhanced Privacy for BTC and XRP Holders:** BTC/XRP holders can interact with the Ethereum ecosystem without revealing Bitcoin addresses.
-- **Cross-Chain Reputation Systems:** Users can build financial reputations on evm platforms by proving their XRP and token holdings.
+- **Cross-Chain Reputation Systems:** Users can build financial reputations on EVM platforms by proving their XRP and token holdings.
 
 ## Useful ressources 📜
 
